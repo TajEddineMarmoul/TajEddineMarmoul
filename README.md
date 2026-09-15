@@ -1,42 +1,39 @@
-# Hi, I'm Taj Eddine Marmoul
+# Taj Eddine Marmoul
 
-Applied AI and full-stack engineer building agentic systems, MCP-based platforms, and production RAG products.
+Software Engineer building backend, full stack, and applied AI systems.
 
-[Email](mailto:tajdinetajdine1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tajeddine-marmoul) · [GitHub](https://github.com/TajEddineMarmoul) · [L'Cachet](https://lcachet.ma)
+Graduated 2026. Based in Morocco and open to backend, full stack, and platform engineering roles.
 
-## What I Build
+## Selected work
 
-- Production AI systems that turn research ideas into usable products.
-- Full-stack web applications with strong backend, data, and deployment ownership.
-- Agentic platforms where LLMs act through controlled tools, not unchecked code execution.
+### Agentic Web Platform at CNRS LAAS
 
-## Highlights
+Built an MCP tool platform that turns natural language requests into structured database, backend, and interface work. The system uses FastAPI, FastMCP, React, MongoDB, validation, audit logs, human approval, Docker, Nginx, and CI/CD.
 
-- Built and deployed an MCP-based agentic web platform at **CNRS LAAS** supporting **~200 daily active users**, generating **8,000+ forms** and **3,000+ apps** through **4 MCP servers** and **60 tools**.
-- Built [**L'Cachet**](https://lcachet.ma), a live multilingual RAG platform for Moroccan legal and administrative guidance.
-- Built [**PDF2Text-Arabic**](https://github.com/TajEddineMarmoul/PDF2Text-Arabic), an open-source Arabic PDF extraction engine for legal-document ingestion, cleanup, and OCR fallback.
-- Built and operated data systems at **Royal Air Maroc**, cutting dashboard load time by **60%** and guiding a team of **5 developers** on development and deployment.
+The research platform is private. This repository is a representative implementation that shows the architecture and local setup.
 
-## Selected Work
+### L'Cachet
 
-| Project | Focus | Links |
-| --- | --- | --- |
-| **L'Cachet** | Live multilingual legal and administrative RAG product with grounded retrieval, shared sessions, payment flows, and production deployment. | [Website](https://lcachet.ma) |
-| **PDF2Text-Arabic** | Open-source Arabic PDF extraction and cleanup pipeline using PyMuPDF, OCR fallback, table extraction, and RTL reconstruction. | [Repository](https://github.com/TajEddineMarmoul/PDF2Text-Arabic) |
-| **AI Platform @ CNRS LAAS** | MCP, FastMCP, FastAPI, React, MongoDB, auditability, security controls, and human-in-the-loop execution. | Private research work |
-| **Royal Air Maroc Dashboard** | BI, ETL, DevOps, Dash, PostgreSQL, Redis, Nginx, Docker, Gunicorn, and production dashboarding. | [Repository](https://github.com/crazytajdine/Stage_Ram_PFA_Data_Visualisation) |
-| **Project Cam 1337** | Real-time computer vision, face recognition, PyTorch training, WebSocket full-stack delivery, and team leadership. | [Repository](https://github.com/TajEddineMarmoul/Project_Cam_1337_Stage) |
+Founder and sole builder of [L'Cachet](https://lcachet.ma), a live multilingual platform for Moroccan legal and administrative guidance. I built the product, document pipeline, retrieval system, frontend, backend, database, authentication, and payments.
 
-## Core Stack
+Stack: Next.js, TypeScript, PostgreSQL, Prisma, vector search, and Gemini.
 
-`Python` `TypeScript` `JavaScript` `FastAPI` `React` `Next.js` `PostgreSQL` `MongoDB` `Redis` `Docker` `MCP` `FastMCP` `RAG`
+### Outreach Campaign Platform
 
-## Open To
+A platform for creating personalized Gmail campaigns, choosing sender accounts, scheduling delivery, and tracking replies. Built with Next.js, React, FastAPI, PostgreSQL, OAuth, background workers, and deployment documentation.
 
-Applied AI, full-stack AI, AI platform, and product engineering roles worldwide where I can own systems end to end: architecture, backend, data, deployment, and product delivery.
+### PDF2Text Arabic
+
+[PDF2Text Arabic](https://github.com/TajEddineMarmoul/PDF2Text-Arabic) is an open source extraction tool for Arabic PDFs, including right to left text, table extraction, footer cleanup, and OCR fallback.
+
+### Royal Air Maroc Operations Dashboard
+
+Built a flight operations dashboard with Dash, PostgreSQL, Redis, Docker, and desktop packaging. It reduced dashboard load time by 60% during the internship evaluation.
+
+## Core stack
+
+Python, TypeScript, FastAPI, React, Next.js, PostgreSQL, MongoDB, Redis, Docker, MCP, FastMCP, and API design.
 
 ## Contact
 
-- Email: [tajdinetajdine1@gmail.com](mailto:tajdinetajdine1@gmail.com)
-- LinkedIn: [linkedin.com/in/tajeddine-marmoul](https://www.linkedin.com/in/tajeddine-marmoul)
-- GitHub: [github.com/TajEddineMarmoul](https://github.com/TajEddineMarmoul)
+[Email](mailto:tajdinetajdine1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tajeddine-marmoul) · [GitHub](https://github.com/TajEddineMarmoul) · [L'Cachet](https://lcachet.ma)
